@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/export.js": {
+      "maxDuration": 60
+    }
+  }
+}
